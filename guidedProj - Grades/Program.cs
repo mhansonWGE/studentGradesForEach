@@ -1,6 +1,6 @@
 ﻿using guidedProj___Grades;
-using System;
-
+/*using System;
+*/
 // initialize variables - graded assignments 
 int currentAssignments = 5;
 string[] studentNames = new string[] { "Logan", "Sophia", "Emma", "Andrew" };
@@ -13,7 +13,7 @@ int[] andrewScores = new int[] {92,89,81,96,90};
 int[] sophiaScores = new int[] {90,86,87,98,100};
 
 
-Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
 
 foreach (string name in studentNames)
 {
@@ -42,7 +42,7 @@ foreach (string name in studentNames)
     studentLetterGrade = GetLetterGrade.getLetter(currStudentGrade);
 
 
-    Console.WriteLine($"{currentStudent}\t\t{currStudentGrade}\t???");
+    Console.WriteLine($"{currentStudent}\t\t{currStudentGrade}\t{studentLetterGrade}");
 
 }
 
