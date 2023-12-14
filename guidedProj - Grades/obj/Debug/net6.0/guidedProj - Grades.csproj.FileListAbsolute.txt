@@ -1,0 +1,14 @@
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\bin\Debug\net6.0\guidedProj - Grades.exe
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\bin\Debug\net6.0\guidedProj - Grades.deps.json
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\bin\Debug\net6.0\guidedProj - Grades.runtimeconfig.json
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\bin\Debug\net6.0\guidedProj - Grades.dll
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\bin\Debug\net6.0\guidedProj - Grades.pdb
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.AssemblyInfoInputs.cache
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.AssemblyInfo.cs
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.csproj.CoreCompileInputs.cache
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.dll
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\refint\guidedProj - Grades.dll
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.pdb
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\guidedProj - Grades.genruntimeconfig.cache
+C:\Users\mhanson\source\repos\guidedProj - Grades\guidedProj - Grades\obj\Debug\net6.0\ref\guidedProj - Grades.dll
